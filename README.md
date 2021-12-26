@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   - URL: [github.com/blogtree](https://github.com/blogtree)
 
 
-### Goot At
+### Skill
 - Back-End
   - Java
   - Node.js
