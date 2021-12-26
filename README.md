@@ -44,4 +44,4 @@ Here are some ideas to get you started:
   - BootStrap
 
 ### My GitHub Contributions
-![](https://raw.githubusercontent.com/AlanGeeker/AlanGeeker/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/AlanGeeker/AlanGeeker/main/statics/github-contribution-grid-snake.svg)
