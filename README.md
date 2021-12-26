@@ -34,13 +34,22 @@ Here are some ideas to get you started:
 ### Skill
 - Back-End
   - Java
+    - Spring Boot
+    - Spring Cloud
+    - Spring Cloud Alibaba
   - Node.js
   - Python
 - Front-End
   - Vue.js
-  - Element-UI
-  - Layui
+  - Element UI &nbsp; [2.0](https://github.com/ElemeFE/element) &nbsp; [3.0](https://github.com/element-plus/element-plus)
+  - [Ant Design](https://github.com/ant-design/ant-design)
+  - [Layui](https://github.com/sentsin/layui)
   - BootStrap
+- Data
+  - MySQL
+  - MongoDB
+  - Redis
+
 
 <br/>
 
