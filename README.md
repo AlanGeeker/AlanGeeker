@@ -31,7 +31,6 @@ Here are some ideas to get you started:
   - About: Share Code on Github
   - URL: [github.com/blogtree](https://github.com/blogtree)
 
-
 ### Skill
 - Back-End
   - Java
@@ -42,6 +41,8 @@ Here are some ideas to get you started:
   - Element-UI
   - Layui
   - BootStrap
+
+<br/>
 
 ### My GitHub Contributions
 ![](https://raw.githubusercontent.com/AlanGeeker/AlanGeeker/main/statics/github-contribution-grid-snake.svg)
