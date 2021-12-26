@@ -44,16 +44,18 @@ Here are some ideas to get you started:
     - Spring Cloud Alibaba
   - Node.js
   - Python
+
+- Data
+  - MySQL
+  - MongoDB
+  - Redis
+
 - Front-End
   - Vue.js
   - Element UI &nbsp; [2.0](https://github.com/ElemeFE/element) &nbsp; [3.0](https://github.com/element-plus/element-plus)
   - [Ant Design](https://github.com/ant-design/ant-design)
   - [Layui](https://github.com/sentsin/layui)
   - BootStrap
-- Data
-  - MySQL
-  - MongoDB
-  - Redis
 
 
 <br/>
