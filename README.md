@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - **Tool**
   - SQL Sharding (SQL分库分表工具): [URL](https://defpage.com/tool/it/sql-sharding)
   - IT Tech Page (IT技术主页): [URL](https://defpage.com/share/it)
-  - 
+  
 
 ### Skill
 - Back-End
