@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ## Hello 👋, I'm Alan Geeker
 
 ### Introduce
-- I'm a Developer, a Creator, a Geeker.
+- I'm a Developer, a Geeker, a Creator.
 
-- I Love Programming and Believe that **Code Can Change The World**.
+- I Love Programming and Believe that **Code Change The World**.
 
 ### Production
 - **BlogTree**
@@ -48,8 +48,11 @@ Here are some ideas to get you started:
 
 - Data
   - MySQL
-  - MongoDB
   - Redis
+  - MongoDB
+  - ElasticSearch
+  - Hbase
+  - Flink
 
 - Front-End
   - Vue.js
